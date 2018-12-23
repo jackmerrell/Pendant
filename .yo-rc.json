@@ -1,0 +1,17 @@
+{
+  "generator-chisel": {
+    "config": {
+      "name": "Pendant",
+      "author": "Jack Merrell",
+      "projectType": "fe",
+      "nameSlug": "pendant",
+      "nameCamel": "Pendant",
+      "chiselVersion": "0.15.0",
+      "has_jquery": true,
+      "has_jquery_vendor_config": true
+    },
+    "pages": [
+      "index"
+    ]
+  }
+}
